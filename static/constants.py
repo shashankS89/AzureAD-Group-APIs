@@ -1,0 +1,1 @@
+application_name = 'YOUR_APPLICATION_NAME OR ANY RANDOM STRING'
